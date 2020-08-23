@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/restapi":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/restapi","hostpath":"C:/xampp/htdocs/laravel6/restapi","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/xampp/htdocs/laravel6/restapi","disabled":false,"__vagrantfile":true}}}
